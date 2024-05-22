@@ -43,7 +43,7 @@
   "dependencies": {
     "exec-buffer": "^3.0.0",
     "is-jpg": "^2.0.0",
-    "jpegtran-bin": "^6.0.1"
+    "jpegtran-bin": "https://github.com/imagemin/jpegtran-bin.git#ce4fb0c7479525b91c49b020bc5fd75e06e80d67"
   },
   "devDependencies": {
     "ava": "^3.8.0",
