@@ -43,7 +43,7 @@
   "dependencies": {
     "exec-buffer": "^3.0.0",
     "is-jpg": "^2.0.0",
-    "jpegtran-bin": "^5.0.0"
+    "jpegtran-bin": "^6.0.1"
   },
   "devDependencies": {
     "ava": "^3.8.0",
